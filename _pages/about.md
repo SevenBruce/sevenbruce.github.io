@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yuwen Chen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Yuwen is a lecturer in computer science in Beijing university of technology. I received received my Ph.D. degree in Universidad Politécnica de Madrid in 2019. My supervisor is José Fernán Martínez. My research interests include IoT security and privacy, collaborative learning, model inversion, gradient inversion.
-Position: Lecturer
-Affiliation: College of Computer Science, Beijing University of Technology
-Email:       yuwen.chen@bjut.edu.cn
-Address:   Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Beijing, China, 100124
+Yuwen is a lecturer in computer science in Beijing university of technology. I received received my Ph.D. degree in Universidad Politécnica de Madrid in 2019. My supervisor is José Fernán Martínez. My research interests include IoT security and privacy, collaborative learning, model inversion, gradient inversion.<br/>
+Position: Lecturer<br/>
+Affiliation: College of Computer Science, Beijing University of Technology<br/>
+Email:       yuwen.chen@bjut.edu.cn<br/>
+Address:   Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Beijing, China, 100124<br/>
 
 A data-driven personal website
 ======
