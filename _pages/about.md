@@ -19,5 +19,5 @@ My research interests include IoT security and privacy, collaborative learning, 
 
 Teaching
 ======
-Security of deep neutral network and AI technology (深度网络与AI技术安全), (for undergraduate students), Spring, from 2023.
-Security of Artificial Intelligence(人工智能安全), (for graduate students), Spring, from 2023.
+Security of deep neutral network and AI technology (深度网络与AI技术安全), (for undergraduate students), Spring, from 2023. <br/>
+Security of Artificial Intelligence(人工智能安全), (for graduate students), Spring, from 2023. <br/>
