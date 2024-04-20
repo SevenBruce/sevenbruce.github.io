@@ -32,16 +32,14 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-<div style="display:none">
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-</div>
+<!-- -->Skills
+<!-- -->======
+<!-- -->* Skill 1
+<!-- -->* Skill 2
+<!-- -->  * Sub-skill 2.1
+<!-- -->  * Sub-skill 2.2
+<!-- -->  * Sub-skill 2.3
+<!-- --> * Skill 3
 
 Publications
 ======
