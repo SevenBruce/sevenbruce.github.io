@@ -19,7 +19,10 @@ My research interests include IoT security and privacy, collaborative learning, 
 
 Selected Publications
 ======
-My research interests include IoT security and privacy, collaborative learning, model inversion, gradient inversion. Curently I am focusing on secure inference technique based on Secure multi-party computation. 
+2023 <br/>
+Model optimization techniques in personalized federated learning: A survey <br/>
+Fahad Sabah, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
+Expert Systems with Applications, 2023 <br/>
 
 Teaching
 ======
