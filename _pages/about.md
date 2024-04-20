@@ -19,14 +19,25 @@ My research interests include IoT security and privacy, collaborative learning, 
 
 Selected Publications
 ======
-(^ 表示作者均为本人指导/协助指导的研究生，#表示本人为通讯作者)  <br/>
+(^ 表示指导/协助指导的研究生，#表示通讯作者)  <br/>
 *    **Model optimization techniques in personalized federated learning: A survey** <br/>
 Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
-Expert Systems with Applications, 2023 <br/><br/>
+Expert Systems with Applications, 2023 <br/>
 *    **A resilient group-based multi-subset data aggregation scheme for smart grid** <br/>
 Yuwen Chen, Shisong Yang^, José-Fernán Martínez, Lourdes López, Zhen Yang <br/>
-IEEE Internet of Things Journal,2023
-
+IEEE Internet of Things Journal,2023<br/>
+*    **A Post-quantum Secure Aggregation for Federated Learning** <br/>
+Shisong Yang^, Yuwen Chen, Shanshan Tu, Zhen Yang# <br/>
+ICCNS '22: Proceedings of the 2022 12th International Conference on Communication and Network Security<br/>
+*    **Fast Secure Aggregation with High Dropout Resilience for Federated Learning** <br/>
+Shisong Yang^, Yuwen Chen, Zhen Yang#, Bowen Li, Huan Liu <br/>
+IEEE Transactions on Green Communications and Networking,2023<br/>
+*    **AAIA: an efficient aggregation scheme against inverting attack for federated learning** <br/>
+Zhen Yang, Shisong Yang^, Yunbo Huang, José-Fernán Martínez, Lourdes López, Yuwen Chen# <br/>
+International Journal of Information Security,2023<br/>
+*    **Physical unclonable function based lightweight and verifiable data stream transmission for industrial iot** <br/>
+Xiaohu Shan, Haiyang Yu#, Yuwen Chen, Zhen Yang<br/>
+IEEE Transactions on Industrial Informatics,2023<br/>
 
 
 Teaching
