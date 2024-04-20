@@ -17,6 +17,10 @@ Research Interest
 ======
 My research interests include IoT security and privacy, collaborative learning, model inversion, gradient inversion. Curently I am focusing on secure inference technique based on Secure multi-party computation. 
 
+Selected Publications
+======
+My research interests include IoT security and privacy, collaborative learning, model inversion, gradient inversion. Curently I am focusing on secure inference technique based on Secure multi-party computation. 
+
 Teaching
 ======
 Security of deep neutral network and AI technology (深度网络与AI技术安全), (for undergraduate students), Spring, from 2023. <br/>
