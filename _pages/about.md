@@ -38,7 +38,18 @@ International Journal of Information Security,2023<br/>
 *    **Physical unclonable function based lightweight and verifiable data stream transmission for industrial iot** <br/>
 Xiaohu Shan, Haiyang Yu#, Yuwen Chen, Zhen Yang<br/>
 IEEE Transactions on Industrial Informatics,2023<br/>
-
+*    **A dynamic membership group-based multiple-data aggregation scheme for smart grid** <br/>
+Yuwen Chen, José-Fernán Martínez, Lourdes López, Haiyang Yu, Zhen Yang#<br/>
+IEEE Internet of Things Journal,2021<br/>
+*    **An elliptic curve-based scalable data aggregation scheme for smart grid** <br/>
+Yuwen Chen#, José-Fernán Martínez-Ortega, Pedro Castillejo, Lourdes López<br/>
+IEEE Systems Journal,2021<br/>
+*    **A homomorphic-based multiple data aggregation scheme for smart grid** <br/>
+Yuwen Chen#, José-Fernán Martínez-Ortega, Pedro Castillejo, Lourdes López<br/>
+IEEE Sensors Journal,2019<br/>
+*    **A privacy protection user authentication and key agreement scheme tailored for the Internet of Things environment: PriAuth** <br/>
+Yuwen Chen#, José-Fernán Martínez, Pedro Castillejo, Lourdes López<br/>
+Wireless Communications and Mobile Computing,2017<br/>
 
 Teaching
 ======
