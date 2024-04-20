@@ -24,7 +24,7 @@ Selected Publications
 Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
 Expert Systems with Applications, 2023 <br/><br/>
 *    **A resilient group-based multi-subset data aggregation scheme for smart grid** <br/>
-Yuwen Chen, Shisong Yang, José-Fernán Martínez, Lourdes López, Zhen Yang <br/>
+Yuwen Chen, Shisong Yang^, José-Fernán Martínez, Lourdes López, Zhen Yang <br/>
 IEEE Internet of Things Journal,2023
 
 
