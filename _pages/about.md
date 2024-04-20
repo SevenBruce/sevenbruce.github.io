@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuwen is a lecturer in computer science in Beijing university of technology. I received my Ph.D. degree in Universidad Politécnica de Madrid in 2019. My supervisor is José Fernán Martínez. My research focus on security and privacy problem in the IoT secnario. <br/>
+Yuwen is a lecturer in computer science in Beijing university of technology. I received my Ph.D. degree in [Universidad Politécnica de Madrid](https://www.upm.es/) in 2019. My supervisor is [José Fernán Martínez](https://www.etsist.upm.es/uploaded/docs_personales/martinez_ortega_jose_fernan/index.html). My research focus on security and privacy problem in the IoT secnario. <br/>
 Affiliation: College of Computer Science, Beijing University of Technology<br/>
 Address:   Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Beijing, China, 100124<br/>
 
