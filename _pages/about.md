@@ -19,7 +19,7 @@ My research interests include IoT security and privacy, collaborative learning, 
 
 Selected Publications
 ======
-(^ 表示指导/协助指导的研究生，#表示通讯作者)  <br/>
+ <font size=10 >(^ 表示指导/协助指导的研究生，#表示通讯作者)</font> <br/>
 *    **Model optimization techniques in personalized federated learning: A survey** <br/>
 Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
 Expert Systems with Applications, 2023 <br/>
