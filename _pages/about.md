@@ -19,10 +19,15 @@ My research interests include IoT security and privacy, collaborative learning, 
 
 Selected Publications
 ======
-2023 <br/>
-Model optimization techniques in personalized federated learning: A survey <br/>
-Fahad Sabah, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
-Expert Systems with Applications, 2023 <br/>
+(^ 表示作者均为本人指导/协助指导的研究生，#表示本人为通讯作者)  <br/>
+**Model optimization techniques in personalized federated learning: A survey** <br/>
+Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
+Expert Systems with Applications, 2023 <br/><br/>
+**A resilient group-based multi-subset data aggregation scheme for smart grid** <br/>
+Yuwen Chen, Shisong Yang, José-Fernán Martínez, Lourdes López, Zhen Yang <br/>
+IEEE Internet of Things Journal,2023
+
+
 
 Teaching
 ======
