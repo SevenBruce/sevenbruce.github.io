@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuwen is a lecturer in computer science in Beijing university of technology. I received received my Ph.D. degree in Universidad Politécnica de Madrid in 2019. My supervisor is José Fernán Martínez. My research focus on security and privacy problem in the IoT secnario. <br/>
+Yuwen is a lecturer in computer science in Beijing university of technology. I received my Ph.D. degree in Universidad Politécnica de Madrid in 2019. My supervisor is José Fernán Martínez. My research focus on security and privacy problem in the IoT secnario. <br/>
 Position: Lecturer <br/>
 Affiliation: College of Computer Science, Beijing University of Technology<br/>
 Email:       yuwen.chen@bjut.edu.cn<br/>
@@ -19,7 +19,7 @@ My research interests include IoT security and privacy, collaborative learning, 
 
 Selected Publications
 ======
- <font size=10 >(^ supservised/co-supservised students，#corresponding author)</font> <br/>
+(^ supservised/co-supservised students，#corresponding author) <br/>
 *    **Model optimization techniques in personalized federated learning: A survey** <br/>
 Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
 Expert Systems with Applications, 2023 <br/>
