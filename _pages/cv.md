@@ -31,7 +31,8 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+<div style="display:none">
 Skills
 ======
 * Skill 1
@@ -52,6 +53,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+</div>
   
 Teaching
 ======
