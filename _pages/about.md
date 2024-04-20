@@ -12,7 +12,7 @@ Personl Pages: [DMS Lab](http://www.dmslab.net/index.php/people/yuwen-chen/) [é™
 Affiliation: College of Computer Science, Beijing University of Technology<br/>
 Address:   Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Beijing, China, 100124<br/>
 
-Selected Publications
+Research Interest
 ======
 My research interests include IoT security and privacy, collaborative learning, model inversion, gradient inversion. Curently I am focusing on secure inference technique based on Secure multi-party computation. <br/>
 
