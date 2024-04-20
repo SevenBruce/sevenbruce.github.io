@@ -21,9 +21,9 @@ repository               : "SevenBruce/sevenbruce.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.png"
   # name             : "man struggle upward"
-  bio              : "man struggle upward"
+  # bio              : "man struggle upward"
   location         : "Beijing, China"
   employer         : "Beijing University of Technology"
   # uri              : # URL
