@@ -41,6 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+</div>
 
 Publications
 ======
@@ -53,7 +54,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-</div>
+
   
 Teaching
 ======
