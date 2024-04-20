@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+# locale                   : "en-US"
 title                    : "Yuwen Chen /Yuwen Chen"
 title_separator          : "-"
 name                     : &name "Yuwen Chen"
@@ -22,12 +22,11 @@ repository               : "SevenBruce/sevenbruce.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "man struggle upward"
-  pronouns         : # example: "she/her"  
+  # name             : "man struggle upward"
   bio              : "man struggle upward"
-  location         : "Earth"
+  location         : "Beijing, China"
   employer         : "Beijing University of Technology"
-  uri              : # URL
+  # uri              : # URL
   email            : "yuwen.chen@bjut.edu.cn" 
 
   # Academic websites
