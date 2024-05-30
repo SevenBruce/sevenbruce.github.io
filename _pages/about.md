@@ -1,4 +1,4 @@
----
+![image](https://github.com/SevenBruce/sevenbruce.github.io/assets/4980207/590964f6-a70f-4e8c-8288-035cb10888a5)---
 permalink: /
 title: "Yuwen Chen"
 author_profile: true
@@ -19,6 +19,9 @@ My research interests include IoT security and privacy, collaborative learning, 
 Selected Publications
 ======
 (^ supservised/co-supservised students，#corresponding author) <br/>
+*    **Batch data recovery from gradients based on generative adversarial networks<br/>
+Y Huang^, Y Chen#, JF Martínez-Ortega, H Yu, Z Yang<br/>
+Neural Computing and Applications, 1-12<br/>
 *    **Model optimization techniques in personalized federated learning: A survey** <br/>
 Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
 Expert Systems with Applications, 2023 <br/>
