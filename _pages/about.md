@@ -19,7 +19,7 @@ My research interests include IoT security and privacy, collaborative learning, 
 Selected Publications
 ======
 (^ supservised/co-supservised students，#corresponding author) <br/>
-*    **Batch data recovery from gradients based on generative adversarial networks<br/>
+*    **Batch data recovery from gradients based on generative adversarial networksy** <br/>
 Y Huang^, Y Chen#, JF Martínez-Ortega, H Yu, Z Yang<br/>
 Neural Computing and Applications, 1-12<br/>
 *    **Model optimization techniques in personalized federated learning: A survey** <br/>
