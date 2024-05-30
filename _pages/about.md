@@ -1,5 +1,3 @@
-![image](https://github.com/SevenBruce/sevenbruce.github.io/assets/4980207/590964f6-a70f-4e8c-8288-035cb10888a5)---
-permalink: /
 title: "Yuwen Chen"
 author_profile: true
 redirect_from: 
