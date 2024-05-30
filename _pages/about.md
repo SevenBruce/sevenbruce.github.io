@@ -20,7 +20,7 @@ Selected Publications
 ======
 (^ supservised/co-supservised students，#corresponding author) <br/>
 *    **Batch data recovery from gradients based on generative adversarial networksy** <br/>
-Y Huang^, Y Chen#, JF Martínez-Ortega, H Yu, Z Yang<br/>
+Yunbo Huang^, Yuwen Chen#, JF Martínez-Ortega, Haiyang Yu, Zhen Yang<br/>
 Neural Computing and Applications, 1-12<br/>
 *    **Model optimization techniques in personalized federated learning: A survey** <br/>
 Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
