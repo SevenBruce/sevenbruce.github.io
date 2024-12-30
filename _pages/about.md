@@ -21,7 +21,7 @@ Selected Publications
 (^ supservised/co-supservised students，#corresponding author) <br/>
 *    **Privacy-preserving federated learning based on noise additionCCF None** <br/>
 X Wu^, Y Chen#, H Yu, Z Yang <br/>
-Expert Systems with Applications, 2023 <br/>
+Expert Systems with Applications, 2024 <br/>
 *    **Batch data recovery from gradients based on generative adversarial networksy** <br/>
 Yunbo Huang^, Yuwen Chen#, JF Martínez-Ortega, Haiyang Yu, Zhen Yang<br/>
 Neural Computing and Applications, 1-12<br/>
