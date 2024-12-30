@@ -19,7 +19,7 @@ My research interests include IoT security and privacy, collaborative learning, 
 Selected Publications
 ======
 (^ supservised/co-supservised students，#corresponding author) <br/>
-*    **Privacy-preserving federated learning based on noise additionCCF None** <br/>
+*    **Privacy-preserving federated learning based on noise addition** <br/>
 X Wu^, Y Chen#, H Yu, Z Yang <br/>
 Expert Systems with Applications, 2024 <br/>
 *    **Batch data recovery from gradients based on generative adversarial networksy** <br/>
